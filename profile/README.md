@@ -15,6 +15,7 @@ Here are the steps to join our mailing list & calendar [this is also required]:
 > Note: This might be hidden under the elipses at the end of the menu! More information [here](https://support.microsoft.com/en-us/office/join-a-group-in-outlook-2e59e19c-b872-44c8-ae84-0acc4b79c45d#ID0EBBF=PC).
 3. Search for "Hack WashU Public" and join!
 
+# Here's a screenshot from the browser version of Outlook. If you're using the Desktop app, right click on "Groups" and then select "Browse Groups"
 ![Click "Discover Groups" as seen here](https://user-images.githubusercontent.com/69002400/207056139-6b25dbd4-a0fa-46b9-8ffa-41fa40d5522a.jpg)
 
 
