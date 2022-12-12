@@ -22,4 +22,4 @@ At this point, you should see our events on your @wustl.edu Outlook calendar! Ch
 Discord is not mature enough as a platform to handle our scheduling and document-sharing needs. While we love the ease of use, it just can't do what we needed to do. Every WashU student already has a Teams account, so we figured that this was the best possible platform to transition to.
 
 ### Is Joining Teams and the Outlook Group Really Required to Participate?
-Yes! We are doing all of our scheduling and document sharing via Teams and Outlook.
+Yes! We are doing all of our scheduling and document sharing via Teams and Outlook. Discord events can't be synced with calendars, and we get Teams licenses for free via WashU.
