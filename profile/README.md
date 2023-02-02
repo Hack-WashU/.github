@@ -2,12 +2,14 @@
 
 Hi! We're Hack WashU -- WashU's Hackathon club.
 
-Want to help out? Join our Teams group and mailing list!
+Want to help out? Join our Discord and mailing list!
 
-We don't want to make our invite links public in order to reduce spam. Here are the steps to join Teams:
-1. Go to teams.microsoft.com and login with your @wustl.edu email
-2. Click "Join or Create a Team" and search for Hack WashU
-3. Join!
+We don't want to make our invite links public in order to reduce spam. You can get an invite from a friend, or follow these steps:
+1. Go to discord.com and create an account
+2. On the bottom of the let pane, click the "Browse Public Servers" icon (looks like a compass)
+3. Click "Student Hubs" and join, entering your WUSTL email
+4. Search for "Hack WashU Community"
+5. Join!
 
 Here are the steps to join our mailing list & calendar [this is also required]:
 1. Open Outlook (web or desktop)
@@ -18,12 +20,4 @@ Here are the steps to join our mailing list & calendar [this is also required]:
 ### Here's a screenshot from the browser version of Outlook. If you're using the Desktop app, right click on "Groups" and then select "Browse Groups"
 ![Click "Discover Groups" as seen here](https://user-images.githubusercontent.com/69002400/207056139-6b25dbd4-a0fa-46b9-8ffa-41fa40d5522a.jpg)
 
-
 At this point, you should see our events on your @wustl.edu Outlook calendar! Check for our Homework & Hacking event every Wednesday night from 7pm to 10pm.
-
-## FAQ
-### Why move away from Discord?
-Discord is not mature enough as a platform to handle our scheduling and document-sharing needs. While we love the ease of use, it just can't do what we needed to do. Every WashU student already has a Teams account, so we figured that this was the best possible platform to transition to.
-
-### Is Joining Teams and the Outlook Group Really Required to Participate?
-Yes! We are doing all of our scheduling and document sharing via Teams and Outlook. Discord events can't be synced with calendars, and we get Teams licenses for free via WashU.
